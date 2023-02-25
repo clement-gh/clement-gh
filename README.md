@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Clement GHYS</h1>
 <h3 align="center">Student at ESIREM Dijon, IT Engineer School</h3>
-
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=clement-gh&show_icons=true&locale=en&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=clement-gh&show_icons=true&locale=en&theme=tokyonight" alt="benjamin-milhet" />
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/clément-ghys-5844931b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/clément-ghys-5844931b2/" height="30" width="40" /></a>
